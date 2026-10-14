@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rajeev Verma — Creative Portfolio
 
 A responsive Next.js App Router portfolio scaffold based on the supplied website brief and creative leadership dossier.
@@ -58,3 +59,7 @@ Entries to verify against source profile: Rabitat UGC Ads; Fogg Ad Spoof; Protei
 - `robots` metadata currently disables indexing; enable indexing only after content, media rights, contact flow and domain are ready.
 - Fonts load from Google Fonts; self-host them if a fully local font setup is required.
 - This is a working base for migration, not a claim that the media migration is complete.
+=======
+# Rajeev-Verma
+Portfolio
+>>>>>>> origin/main
