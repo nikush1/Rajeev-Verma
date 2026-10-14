@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Footer(){return <footer className="footer"><div><span className="eyebrow">HAVE A GOOD ONE IN MIND?</span><h2>Let’s make it<br/><em>mean something.</em></h2><Link className="button button-dark" href="/contact">Discuss a project ↗</Link></div><div className="footer-bottom"><span>© {new Date().getFullYear()} Rajeev Verma</span><span>Creative direction · Performance video · Production leadership</span><a href="https://www.linkedin.com/in/rajeev-verma-8643b11a3/" target="_blank" rel="noreferrer">LinkedIn ↗</a></div></footer>}

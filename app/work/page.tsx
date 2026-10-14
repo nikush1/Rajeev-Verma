@@ -1,0 +1,3 @@
+import type {Metadata} from 'next'; import WorkLibrary from '@/components/WorkLibrary';
+export const metadata:Metadata={title:'All Work',description:'Browse the complete project inventory of Rajeev Verma.'};
+export default function WorkPage(){return <section className="page-wrap page-top"><div className="page-kicker">THE ARCHIVE / 2021—NOW</div><h1 className="page-title">A little bit of<br/><em>everything.</em></h1><p className="page-intro">Campaigns, product stories, social-first work and commercial films. Explore the full project inventory below.</p><WorkLibrary/><p className="asset-note">Some entries are waiting for original media and metadata. No substitute work is presented as Rajeev’s.</p></section>}
